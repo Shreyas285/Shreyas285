@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Anlaytics
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
+- 📫 How to reach me shreyasamin39@
 
 <!---
 Shreyas285/Shreyas285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
