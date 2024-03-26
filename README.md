@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shreyas285
 - 👀 I’m interested in Quality Assurance
-- 🌱 I’m currently into learning autamating daily repatative tasks.
+- 🌱 I’m currently into learning automating daily repatative tasks.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me shreyasamin39@gmail.com
 
