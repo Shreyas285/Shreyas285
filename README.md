@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shreyas285
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Anlaytics
+- 👀 I’m interested in Quality Assurance
+- 🌱 I’m currently into learning autamating daily repatative tasks.
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me shreyasamin39@
+- 📫 How to reach me shreyasamin39@gmail.com
 
 <!---
 Shreyas285/Shreyas285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
